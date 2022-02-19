@@ -200,7 +200,7 @@
                 </div>
                 <div class="info">
                   <div class="content">
-                   <h4> <button @click="$modal.show('my-modal')">Show modal</button></h4>
+                   <h4> <button @click="$modal.show('my-modal')">Lucas Ethan</button></h4>
                     <span>Markteting Manager</span>
                   </div>
                 </div>
